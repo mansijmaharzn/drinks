@@ -1,0 +1,5 @@
+# virtual end
+/.venv
+
+# misc
+.DS_Store
